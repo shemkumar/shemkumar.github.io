@@ -1,28 +1,28 @@
 # Site settings
-title: Home # site title
-description: >- # site description
- This is site has been used to share my ctf solutions <a href="https://github.com/shemkumar" target="_blank" rel="noopener">@github</a>.
-lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
-image: assets/img/ogp.png # Th
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
-mode: dark # default theme "dark" | "light"
+title: Home
+description: >-
+ This site has been used to share my CTF solutions <a href="https://github.com/shemkumar" target="_blank" rel="noopener">@github</a>.
+lang: en-US
+timezone: Asia/Jakarta
+image: assets/img/ogp.png
+repo: https://github.com/piharpi/jekyll-klise
+mode: dark
 
 # Profile settings
 author:
-  name: Shemkumar # author name
-  bio: >- # tell to the world
+  name: Shemkumar
+  bio: >-
     I am a dedicated CTF player with a strong passion for cybersecurity and problem-solving. Over the years, I have participated in numerous CTF competitions, sharpening my skills in various domains such as cryptography, reverse engineering, web exploitation, forensics, and more. My journey in cybersecurity is driven by a constant desire to learn and adapt to the ever-changing landscape of digital threats. <a href="https://github.com/shemkumar" target="_blank" rel="noopener">@github</a>.
   username: shemkumar
-  github: shemkumar # github usernam
-  email: thunderbolt20200@gmail.com # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+  github: shemkumar
+  email: thunderbolt20200@gmail.com
+  avatar: /assets/img/avatar.jpg
 
 # URL settings
-url: "https://shemkumar.github.io" #
+url: "https://shemkumar.github.io"
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics:
 fb_appid:
 
 # Collection setting
@@ -59,7 +59,6 @@ jekyll_compose:
 number_of_posts: 5
 
 # Build settings
-# theme: klise
 sass:
   style: compressed
 
