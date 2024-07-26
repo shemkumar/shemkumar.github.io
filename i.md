@@ -8,8 +8,6 @@ comments: false
 ### `SHEMKUMAR` &nbsp; *a.k.a* &nbsp; `SHEMKUMAR`
 - CTF player at [r00t@localhost](https://ctftime.org/team/300382)
 
-## Capture The Flag (CTF) Player Portfolio
-
 ### About Me
 
 I am a dedicated CTF player with a strong passion for cybersecurity and problem-solving. Over the years, I have participated in numerous CTF competitions, sharpening my skills in various domains such as cryptography, reverse engineering, web exploitation, forensics, and more. My journey in cybersecurity is driven by a constant desire to learn and adapt to the ever-changing landscape of digital threats.
@@ -24,13 +22,13 @@ I am a dedicated CTF player with a strong passion for cybersecurity and problem-
 
 ### Achievements
 
-- **[CTF Competition Name]**: [Rank/Position] - [Date]
+- **[PENTATHON24]**: [PRELIMS 3 POSITION] - [Date]
   - Description of the challenge and your contribution to solving it.
 
-- **[CTF Competition Name]**: [Rank/Position] - [Date]
+- **[HACKERS'HUNT]**: [4] - [Date]
   - Description of the challenge and your contribution to solving it.
 
-- **[CTF Competition Name]**: [Rank/Position] - [Date]
+- **[]**: [Rank/Position] - [Date]
   - Description of the challenge and your contribution to solving it.
 
 ### Projects
