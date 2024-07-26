@@ -10,7 +10,7 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Shemkumar P # author name
+  name: Shemkumar # author name
   bio: >- # tell to the world
     I am a dedicated CTF player with a strong passion for cybersecurity and problem-solving. Over the years, I have participated in numerous CTF competitions, sharpening my skills in various domains such as cryptography, reverse engineering, web exploitation, forensics, and more. My journey in cybersecurity is driven by a constant desire to learn and adapt to the ever-changing landscape of digital threats. <a href="https://github.com/shemkumar" target="_blank" rel="noopener">@github</a>.
   username: shemkumar
