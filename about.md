@@ -1,18 +1,17 @@
 ---
-title: $whoami
+title: About Me
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hello peeps, I'm Shemkumar, a passionate CTF player and computer science student. This blog documents my cybersecurity journey.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Hello, I'm Shemkumar, a dedicated CTF player and computer science student from Banyuwangi, currently residing in Jogjakarta. This blog serves as a documentation of my cybersecurity journey, showcasing my participation in various CTF competitions and my continuous learning in the field.
 
-If you have a question about him or else, just send a letter to him.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+**Contact Me:**
 
-**may u needs ✨**
+- Email: {{ site.author.email }}
+- GitHub: [{{ site.author.github }}](https://github.com/{{ site.author.github }})
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+**Happy Hacking!** 🎉
