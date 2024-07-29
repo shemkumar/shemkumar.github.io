@@ -1,0 +1,93 @@
+# Site settings
+title: Shemkumar's Portfolio # site title
+description: >- # site description
+  Engineering student and cybersecurity enthusiast. 
+  Passionate about CTF competitions and information security.
+lang: en-US # default lang
+timezone: Asia/Kolkata # set your timezone
+image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+repo: # site repo [optional]
+mode: dark # default theme "dark" | "light"
+
+# Profile settings
+author:
+  name: Shemkumar # author name
+  bio: >- # tell to the world
+    Engineering student with a strong interest in cybersecurity. 
+    Top 10 in NCCIPC Pentathin24 CTF event. Let's connect on 
+    <a href="https://github.com/your_github_username" target="_blank" rel="noopener">@GitHub</a>.
+  username: shemkumar # general username
+  github: your_github_username # github username
+  twitter: your_twitter_username # twitter username [optional]
+  facebook: your_facebook_username # facebook username [optional]
+  email: your-email@email.com # email address
+  avatar: /assets/img/avatar.jpg # change with your own avatar
+
+# URL settings
+url: "https://yourdomain.com" # your website URL
+baseurl: "" # leave empty for root
+permalink: /:title/
+google_analytics: # leave it blank if not wish
+fb_appid: # leave it blank if not wish
+
+# Collection setting
+collections:
+  posts:
+    output: true
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+      comments: false
+
+# Jekyll Compose default front matter
+jekyll_compose:
+  post_default_front_matter:
+    modified:
+    tags: []
+    description:
+  draft_default_front_matter:
+    modified:
+    tags: []
+    description:
+
+# Homepage limit posts
+number_of_posts: 5
+
+# Build settings
+# theme: klise
+sass:
+  style: compressed
+
+include:
+  - _redirects
+  - .htaccess
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CHANGELOG.md
+  - README.md
+  - node_modules
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - lighthouse.png
+  - klise-*.gem
+  - klise.gemspec
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-postfiles
