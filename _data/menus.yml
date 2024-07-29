@@ -3,11 +3,11 @@
   external: false
 
 - title: ctf_writups
-  url: /archive/
+  url: /BLOGS/
   external: false
 
-- title: about
-  url: /about/
+- title: WHOAMI
+  url: /127.0.0.1/
   external: false # set true if you using external link, see below
 
 # Example:
