@@ -14,21 +14,10 @@ author:
   name: Shemkumar # author name
   bio: >- # tell to the world
     Engineering student with a strong interest in cybersecurity. 
-    Top 10 in NCCIPC Pentathin24 CTF event. Let's connect on 
-    <a href="https://github.com/your_github_username" target="_blank" rel="noopener">@GitHub</a>.
+    Let's connect on 
+    <a href="https://github.com/shemkumar" target="_blank" rel="noopener">@GitHub</a>.
   username: shemkumar # general username
-  github: your_github_username # github username
-  twitter: your_twitter_username # twitter username [optional]
-  facebook: your_facebook_username # facebook username [optional]
-  email: your-email@email.com # email address
   avatar: /assets/img/avatar.jpg # change with your own avatar
-
-# URL settings
-url: "https://yourdomain.com" # your website URL
-baseurl: "" # leave empty for root
-permalink: /:title/
-google_analytics: # leave it blank if not wish
-fb_appid: # leave it blank if not wish
 
 # Collection setting
 collections:
