@@ -13,7 +13,8 @@ comments: false
 ## `Infosec Contributions`
 
 <u><b>Competitions:</b></u>
-  **BOOTUP24-CTF** **This is My Ctf Competion in my cyber security journey**
+
+- **BOOTUP24-CTF** **This is My Ctf Competion in my cyber security journey**
 - **NCCIPC Pentathon24:** Top 10 Team
 - **META CTF**
 - **nahamsec ctf**
