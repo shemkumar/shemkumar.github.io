@@ -8,14 +8,19 @@ comments: false
 ### `Shemkumar`
 - Engineering Student at Rajalakshmi Engineering College
 - CTF player with a strong interest in cybersecurity
-- Top 10 team in the NCCIPC government-organized CTF event 'Pentathin24'
+- Top 10 team in the NCCIPC government-organized CTF event 'Pentathon24'
 
 ## `Infosec Contributions`
 
 <u><b>Competitions:</b></u>
+  **BOOTUP24-CTF** **This is My Ctf Competion in my cyber security journey**
 - **NCCIPC Pentathon24:** Top 10 Team
-- **BOOTUP24-CTF**
 - **META CTF**
+- **nahamsec ctf**
+- **shunya ctf**
+- **Besides Bangalore ctf 2024**
+- 
+- 
 
 <u><b>Talks:</b></u>
 
