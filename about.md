@@ -5,43 +5,88 @@ layout: page
 comments: false
 ---
 
-### `Shemkumar`
-- Engineering Student at Rajalakshmi Engineering College
-- CTF player with a strong interest in cybersecurity
-- Top 10 team in the NCCIPC government-organized CTF event 'Pentathon24'
 
-## `Infosec Contributions`
+### 1. **Choose a Resume Template:**
+   - Open Microsoft Word.
+   - Go to **File > New** and search for "Resume" to find a suitable template.
 
-<u><b>Competitions:</b></u>
+### 2. **Format Your Resume:**
 
-- **BOOTUP24-CTF** **This is My Ctf Competion in my cyber security journey**
-- **NCCIPC Pentathon24:** Top 10 Team
-- **META CTF**
-- **nahamsec ctf**
-- **shunya ctf**
-- **Besides Bangalore ctf 2024**
-- 
-- 
+   Here is how your information could be structured within a Word resume template:
 
-<u><b>Talks:</b></u>
+---
 
-| **Topic** | **For** | **Link** | **Date** |
-|-----------|---------|----------|----------|
-| CTFTIME   | [PLAYING CTF](https://ctftime.org/team/300382) | [CTFTime Link](https://ctftime.org/team/300382) | [Weekend] |
+**SHEMKUMAR P**  
+Tiruchirappalli, India 621206  
++91 7825984296  
+shemkumar2020@gmail.com  
 
-## `Skills`
+---
 
-- **Cryptography:** Encryption/Decryption, Cryptanalysis, Hash Functions
-- **Reverse Engineering:** Binary Exploitation, Debugging, Disassembly
-- **Web Exploitation:** SQL Injection, XSS, CSRF
-- **Network Security:** Packet Analysis, Intrusion Detection, Traffic Analysis
-- **Programming:** Python, C/C++, JavaScript
+**Summary**  
+Recent B.Tech graduate specializing in Cybersecurity and DevOps with hands-on experience through projects and internships. Proficient in penetration testing, web application security, and DevOps practices. Eager to apply technical expertise in a professional environment to help drive your company’s success.
 
-## `Contact`
+---
 
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/shemkumar-p-665b39224/)
-- **GitHub:** [GitHub Profile](https://github.com/shemkumar)
+**Skills**  
+- **Security:** Penetration Testing, Intrusion Detection, Firewall Configuration, Data Encryption, Scripting Languages, Web Application Testing, OWASP Top 10 Security  
+- **Programming Languages:** Python  
+- **Web Development:** HTML, CSS, JavaScript (Front-end); Python, SQL (Back-end)  
+- **Cloud Computing:** [Include any relevant tools or platforms you are familiar with]
 
-## `Achievements / Notable Things`
+---
 
-- Participated in numerous CTF competitions and consistently performed well
+**Experience**  
+**Cybersecurity Analyst** | Private Bug Bounty Program - Remote  
+*January 2023 - Current*  
+- Conducted penetration testing and vulnerability assessments for various web applications.
+- Reported critical vulnerabilities, leading to security improvements for multiple organizations.
+
+---
+
+**Education**  
+**Bachelor of Technology in Information Technology**  
+Rajalakshmi Engineering College, Chennai  
+*Expected May 2025*  
+- Specialization in Cybersecurity and DevOps.
+
+---
+
+**Projects**  
+**Wi-Fi Automation Script**  
+- Developed a Python script to automate captive portal logins, improving user experience by streamlining the connection process.  
+- **GitHub:** [wifi_automation](https://github.com/shemkumar/wifi_automation)
+
+**Google Dork Search Engine**  
+- Created a JavaScript-based tool for automating Google Dork queries to identify potential security vulnerabilities.  
+- **GitHub:** [search](https://github.com/shemkumar/search)
+
+---
+
+**Awards & Acknowledgments**  
+- **PENTATHON 2024, AICTE, NCIIPC, MoE (Ministry of Education)**  
+  *April 2024*  
+  - Secured a top 10 position in a national cybersecurity hackathon.  
+
+- **Tata Consultancy Services (TCS)**  
+  *May 2024*  
+  - Recognized for identifying and reporting a critical vulnerability in their email notification system.  
+
+- **Government of Tamil Nadu State Scholarship Portal**  
+  *October 2023*  
+  - Reported and acknowledged for an Admin Authentication Bypass vulnerability.
+
+- **National Critical Information Infrastructure Protection Centre (NCIIPC)**  
+  - Acknowledged for identifying and reporting a Sensitive Information Disclosure vulnerability in the SSP Student Service.
+
+---
+
+**My CTF Diary**  
+Actively participating in Capture The Flag (CTF) competitions. Documenting challenges, solutions, and learnings on my [CTF Diary](https://shemkumar.github.io/), showcasing growth and problem-solving skills.
+
+---
+
+**Certificates**  
+Access my certificates [here](https://drive.google.com/drive/folders/1S6msMJeIn-FNxCvnf-ta3kZbryxDHaBI).
+
+---
