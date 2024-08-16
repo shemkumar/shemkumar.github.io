@@ -6,15 +6,6 @@ comments: false
 ---
 
 
-### 1. **Choose a Resume Template:**
-   - Open Microsoft Word.
-   - Go to **File > New** and search for "Resume" to find a suitable template.
-
-### 2. **Format Your Resume:**
-
-   Here is how your information could be structured within a Word resume template:
-
----
 
 **SHEMKUMAR P**  
 Tiruchirappalli, India 621206  
