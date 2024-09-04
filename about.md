@@ -23,7 +23,7 @@ Recent B.Tech graduate specializing in Cybersecurity and DevOps with hands-on ex
 - **Security:** Penetration Testing, Intrusion Detection, Firewall Configuration, Data Encryption, Scripting Languages, Web Application Testing, OWASP Top 10 Security  
 - **Programming Languages:** Python  
 - **Web Development:** HTML, CSS, JavaScript (Front-end); Python, SQL (Back-end)  
-- **Cloud Computing:** [Include any relevant tools or platforms you are familiar with]
+- **Cloud Computing:** Ec2,s3,cloudwatch
 
 ---
 
