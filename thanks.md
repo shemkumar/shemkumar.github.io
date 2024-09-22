@@ -2,12 +2,20 @@
 title: Acknowledgment
 permalink: /thanks/
 layout: page
-excerpt: Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+excerpt: Thanks to the amazing people I met who helped me escape foolishness, connected me with great individuals, and provided invaluable advice during tough times. They pulled me from ordinary to greatness.
 comments: false
 ---
 
-Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+# Acknowledgment
 
-<hr>
+I want to extend my heartfelt thanks to the amazing people I've met along my journey. Your support has been invaluable in helping me overcome challenges and guiding me toward better paths.
 
-Hopefully the knowledge that I got from them can be useful, and become a charity for them, Aamiin.
+### Gratitude for Connection
+Thank you for connecting me with other wonderful individuals who inspire me every day.
+
+### Valuable Advice
+Your wise words have pulled me from ordinary moments and lifted me to greater heights.
+
+
+
+**Shemkumar**
