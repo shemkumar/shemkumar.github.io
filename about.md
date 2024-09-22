@@ -9,8 +9,6 @@ comments: false
 
 **SHEMKUMAR P**  
 Tiruchirappalli, India 621206  
-+91 7825984296  
-shemkumar2020@gmail.com  
 
 ---
 
