@@ -2,15 +2,14 @@
   url: /
   external: false
 
-- title: ctf_writups
+- title: Capture the flag
   url: /archive/
   external: false
 
-- title: WHOAMI
+- title: About 
   url: /about/
   external: false # set true if you using external link, see below
 
-# Example:
-# - title: github
-#   url: https://github.com/piharpi/jekyll-klise
-#   external: true
+ - title: github
+   url: https://github.com/shemkumar
+   external: true
